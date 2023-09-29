@@ -7,7 +7,7 @@ url: https://jingkunchen.github.io
 # Owner/author information
 owner:
   name: Jingkun Chen
-  avatar: jingkunchen.jpg
+  avatar: /file/image.jpeg
  # bio:
   email: chenjingkun@outlook.com 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -35,7 +35,7 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/xxx.pdf
+    url: /file/image.jpeg
 #  - title: Publications
 #    url: /publications/
 #  - title: Awards
