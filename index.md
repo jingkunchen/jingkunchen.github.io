@@ -2,11 +2,9 @@
 layout: page
 ---
 
-# About Me
+# Jingkun Chen
 
 <img src="/file/image.jpeg" class="floatpic" width="360" height="480">
-
-**Jingkun Chen**.
 
 I am a fourth-year doctoral candidate at the University of Warwick, with a research focus on **computer vision**, **medical image analysis**, and **artificial intelligence**. 
 
@@ -16,13 +14,13 @@ My supervisors include [Prof. Zhang Jianguo](https://scholar.google.com/citation
 **<font color='red'>[Highlight]</font> I am on track to graduate in December 2023. I am actively pursuing opportunities for postdoctoral research and lecturer positions within the academic realm!**
 <br>
 
-## Academic Background
+## Education 
 - **Oct  2020 - Dec 2023:** University of Warwick (Ph.D) (Full Scholarship)
 - **Nov 2019 - Sep 2018:** University of Dundee (MSc) (13.000 GBP Scholarship)
 - **Sep 2009 - Jun 2022:** National University of Defense Technology (BSc)
 <br>
 
-## Working Background
+## Working Experience
 - **Feb 2015 - Sep 2015:** Chinese Academy of Sciences General Chip and Basic Software Research Center **Linux Virtualization Software Engineer**
 - **Sep 2015 - Aug 2017:** Qihoo 360 **Linux Software Engineer**
 - **Apr 2018 - Jul 2018:** Cheetah Mobile **Senior Engineer**
