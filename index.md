@@ -8,7 +8,7 @@ layout: page
 
 I am a fourth-year doctoral candidate at the University of Warwick, with a research focus on **computer vision**, **medical image analysis**, and **artificial intelligence**. 
 
-My supervisors include [Prof. Zhang Jianguo](https://scholar.google.com/citations?user=ypSmZtIAAAAJ&hl=zh-CN), [Prof. Han Jungong](https://scholar.google.com/citations?user=hNi1gxAAAAAJ&hl=zh-CN), and [Prof. Kurt Debattista](https://scholar.google.co.uk/citations?user=8-E4ButRvbwC&hl=en). 
+My supervisors include [**Prof. Zhang Jianguo**](https://scholar.google.com/citations?user=ypSmZtIAAAAJ&hl=zh-CN), [**Prof. Han Jungong**](https://scholar.google.com/citations?user=hNi1gxAAAAAJ&hl=zh-CN), and [**Prof. Kurt Debattista**](https://scholar.google.co.uk/citations?user=8-E4ButRvbwC&hl=en). 
 
 
 **<font color='red'>[Highlight]</font> I am on track to graduate in December 2023. I am actively pursuing opportunities for postdoctoral research and lecturer positions within the academic realm!**
