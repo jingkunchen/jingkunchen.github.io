@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com//.jpg" class="floatpic" width="360" height="480">
+<img src="https://github.com//xxx.jpg" class="floatpic" width="360" height="480">
 
 **Jingkun Chen**.
 
@@ -18,9 +18,14 @@ My academic professors include [Prof. Zhang Jianguo](https://scholar.google.com/
 - **Oct 2020 - Dec 2023:** University of Warwick (Ph.D)
 - **Nov 2019 - Sep 2018:** University of Dundee (MSc)
 - **Sep 2009 - Jun 2022:** National University of Defense Technology (BSc)
-
 <br>
 
+## Working Background
+- **Feb 2015 - Sep 2015:** Chinese Academy of Sciences General Chip and Basic Software Research Center **Linux Virtualization Software Engineer**
+- **Sep 2015 - Aug 2017:** Qihoo 360 **Linux Software Engineer**
+- **Apr 2018 - Jul 2018:** Cheetah Mobile **Senior Engineer**
+- **Sep 2019 - Oct 2020:** Southern University of Science and Technology **Research Assistant**
+<br>
 ---
 
 ## Publications
