@@ -10,13 +10,13 @@ layout: page
 
 I am a fourth-year doctoral candidate at the University of Warwick, with a research focus on **computer vision**, **medical image analysis**, and **artificial intelligence**. 
 
-My academic professors include [Prof. Zhang Jianguo](https://scholar.google.com/citations?user=ypSmZtIAAAAJ&hl=zh-CN), [Prof. Han Jungong](https://scholar.google.com/citations?user=hNi1gxAAAAAJ&hl=zh-CN), and [Prof. Kurt Debattista](https://scholar.google.co.uk/citations?user=8-E4ButRvbwC&hl=en). I have submitted my doctoral dissertation and am on track to graduate in December 2023.  
+My academic professors include [Prof. Zhang Jianguo](https://scholar.google.com/citations?user=ypSmZtIAAAAJ&hl=zh-CN), [Prof. Han Jungong](https://scholar.google.com/citations?user=hNi1gxAAAAAJ&hl=zh-CN), and [Prof. Kurt Debattista](https://scholar.google.co.uk/citations?user=8-E4ButRvbwC&hl=en). I have submitted my doctoral thesis and am on track to graduate in December 2023.  
 **<font color='red'>[Highlight]</font> I am actively pursuing opportunities for postdoctoral research and lecturer positions within the academic realm!**
 <br>
 
 ## Academic Background
-- **Oct 2020 - Dec 2023:** University of Warwick (Ph.D)
-- **Nov 2019 - Sep 2018:** University of Dundee (MSc)
+- **Oct 2020 - Dec 2023:** University of Warwick (Ph.D) (Full Scholarship)
+- **Nov 2019 - Sep 2018:** University of Dundee (MSc) (13.000 GBP Scholarship)
 - **Sep 2009 - Jun 2022:** National University of Defense Technology (BSc)
 <br>
 
