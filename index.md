@@ -27,7 +27,7 @@ My supervisors include [**Prof. Jianguo Zhang**](https://scholar.google.com/cita
 - **Feb 2015 - Sep 2015:** Chinese Academy of Sciences General Chip and Basic Software Research Center **Linux Virtualization Software Engineer**
 
 ## Teaching Experience
-- [**Programming and Fundamental Algorithms**](https://courses.warwick.ac.uk/modules/2022/WM908-15): Algorithms University of Warwick **Senior Graduate Teaching Assistant**
+- [**Programming and Fundamental Algorithms**](https://courses.warwick.ac.uk/modules/2022/WM908-15): University of Warwick **Senior Graduate Teaching Assistant**
 - [**Deep Learning**](https://nces.cra.moe/course/1782/): Southern University of Science and Technology **Teaching Assistant**
 <br>
 
