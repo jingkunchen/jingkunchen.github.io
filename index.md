@@ -15,8 +15,8 @@ My supervisors include [**Prof. Jianguo Zhang**](https://scholar.google.com/cita
 <br>
 
 ## Education 
-- **Oct 2020 - Dec 2023:** University of Warwick (Ph.D) (Full Scholarship)
-- **Sep 2018 - Nov 2019:** University of Dundee (MSc) (13,000 GBP Scholarship)
+- **Oct 2020 - Dec 2023:** University of Warwick (Ph.D) 
+- **Sep 2018 - Nov 2019:** University of Dundee (MSc) 
 - **Sep 2009 - Jun 2013:** National University of Defense Technology (BSc)
 <br>
 
@@ -26,8 +26,15 @@ My supervisors include [**Prof. Jianguo Zhang**](https://scholar.google.com/cita
 - **Sep 2015 - Aug 2017:** Qihoo 360 **Linux Software Engineer**
 - **Feb 2015 - Sep 2015:** Chinese Academy of Sciences General Chip and Basic Software Research Center **Linux Virtualization Software Engineer**
 
+## Teaching Experience
+- [**Programming and Fundamental Algorithms**](https://courses.warwick.ac.uk/modules/2022/WM908-15): Algorithms University of Warwick **Senior Graduate Teaching Assistant**
+- [**Deep Learning**](https://nces.cra.moe/course/1782/): Southern University of Science and Technology **Teaching Assistant**
+<br>
 
-
+## Scholarships 
+- Warwick PhD Scholarship 2020
+- British Council GREAT Scholarships 2019 
+- Global Excellence Scholarships 2019
 <br>
 
 
