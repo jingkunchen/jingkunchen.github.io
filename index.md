@@ -22,7 +22,7 @@ My supervisors include [**Prof. Jianguo Zhang**](https://scholar.google.com/cita
 
 ## Working Experience
 - **Sep 2019 - Oct 2020:** Southern University of Science and Technology **Research Assistant**
-- **Apr 2018 - Jul 2018:** Cheetah Mobile **Senior Engineer**
+- **Apr 2018 - Jul 2018:** Cheetah Mobile **Senior Software Engineer**
 - **Sep 2015 - Aug 2017:** Qihoo 360 **Linux Software Engineer**
 - **Feb 2015 - Sep 2015:** Chinese Academy of Sciences General Chip and Basic Software Research Center **Linux Virtualization Software Engineer**
 
