@@ -11,7 +11,7 @@ I am a fourth-year doctoral candidate at the University of Warwick, with a resea
 My supervisors include [**Prof. Jianguo Zhang**](https://scholar.google.com/citations?user=ypSmZtIAAAAJ&hl=zh-CN), [**Prof. Jungong Han**](https://scholar.google.com/citations?user=hNi1gxAAAAAJ&hl=zh-CN), and [**Prof. Kurt Debattista**](https://scholar.google.co.uk/citations?user=8-E4ButRvbwC&hl=en). 
 
 
-**<font color='red'>[Highlight] I am on track to graduate in December 2023. I am actively pursuing opportunities for postdoctoral research and lecturer positions within the academic realm!</font>**
+**<font color='red'>[Highlight]Currently on track to graduate in December 2023, I am actively exploring Postdoc and Lecturer opportunities!</font>**
 <br>
 
 ## Education 
