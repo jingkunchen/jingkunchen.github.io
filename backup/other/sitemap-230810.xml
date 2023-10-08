@@ -4,25 +4,10 @@ layout: nil
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>https://caihanlin.com/</loc>
+      <loc>https://jingkunchen.github.io/</loc>
     </url>
     <url>
-      <loc>https://caihanlin.com/file/Resume-HanlinCAI.pdf</loc>
-    </url>
-    <url>
-      <loc>https://caihanlin.com/publications/</loc>
-    </url>    
-    <url>
-      <loc>https://caihanlin.com/projects/</loc>
-    </url>
-    <url>
-      <loc>https://caihanlin.com/awards/</loc>
-    </url>   
-    <url>
-      <loc>https://caihanlin.com/hobbies/</loc>
-    </url>
-    <url>
-      <loc>https://caihanlin.com/blogs/</loc>
+      <loc>https://jingkunchen.github.io/resume.pdf</loc>
     </url>
 
     {% comment %}
