@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image.png"
+  avatar           : "images/bio-photo.jpg"
   name             : "Dr. Jingkun Chen" # Your name, e.g. "Dr. John Smith"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
