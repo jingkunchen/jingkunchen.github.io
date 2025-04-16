@@ -13,96 +13,43 @@ Jingkun Chen is a postdoctoral researcher at the University of Oxford specializi
 
 ## Featured Publications
 
-<!-- Featured Publication 1: IEEE Transactions on Image Processing -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
-  <div style="max-width: 140px; margin-right: 1rem;">
-    <img src="/images/featured_pub1.png" alt="Addressing inconsistent labeling" style="width: 100%;">
-  </div>
-  <div>
-    <p style="margin: 0; font-size: 1.1em; font-weight: bold;">
-      Addressing inconsistent labeling with cross image matching for scribble-based medical image segmentation
-    </p>
-    <p style="margin: 0.25rem 0;">
-      <em>Jingkun Chen, W Huang, Jianguo Zhang, K Debattista, Jungong Han</em>
-    </p>
-    <p style="margin: 0.25rem 0;">
-      IEEE Transactions on Image Processing  
-      2 2025  
-      [<a href="https://example.com/paper_featured1" target="_blank">Paper</a>]
-    </p>
-  </div>
-</div>
+1. **IEEE TIP 2025**  
+   *Addressing inconsistent labeling with cross image matching for scribble-based medical image segmentation*  
+   **Authors**: Jingkun Chen, Wenjian Huang, Jianguo Zhang, K Debattista, Jungong Han  
+   [\[Paper\]](https://ieeexplore.ieee.org/document/10851813)
 
-<!-- Featured Publication 2: Pattern Recognition -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
-  <div style="max-width: 140px; margin-right: 1rem;">
-    <img src="/images/featured_pub2.png" alt="Dynamic contrastive learning" style="width: 100%;">
-  </div>
-  <div>
-    <p style="margin: 0; font-size: 1.1em; font-weight: bold;">
-      Dynamic contrastive learning guided by class confidence and confusion degree for medical image segmentation
-    </p>
-    <p style="margin: 0.25rem 0;">
-      <em>Jingkun Chen, C Chen, W Huang, Jianguo Zhang, K Debattista, Jungong Han</em>
-    </p>
-    <p style="margin: 0.25rem 0;">
-      Pattern Recognition, 109881  
-      20 2024  
-      [<a href="https://example.com/paper_featured2" target="_blank">Paper</a>]
-    </p>
-  </div>
-</div>
+2. **Pattern Recognition 2024**  
+   *Dynamic contrastive learning guided by class confidence and confusion degree for medical image segmentation*  
+   **Authors**: Jingkun Chen, Changrui Chen, wenjian Huang, Jianguo Zhang, K Debattista, Jungong Han  
+   [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S0031320323005794)
 
-<!-- Featured Publication 3: IEEE Transactions on Medical Imaging -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
-  <div style="max-width: 140px; margin-right: 1rem;">
-    <img src="/images/featured_pub3.png" alt="Semi-supervised unpaired segmentation" style="width: 100%;">
-  </div>
-  <div>
-    <p style="margin: 0; font-size: 1.1em; font-weight: bold;">
-      Semi-supervised unpaired medical image segmentation through task-affinity consistency
-    </p>
-    <p style="margin: 0.25rem 0;">
-      <em>Jingkun Chen, Jianguo Zhang, K Debattista, Jungong Han</em>
-    </p>
-    <p style="margin: 0.25rem 0;">
-      IEEE Transactions on Medical Imaging 42(3), 594–605  
-      48 2023  
-      [<a href="https://example.com/paper_featured3" target="_blank">Paper</a>]
-    </p>
-  </div>
-</div>
+3. **IEEE TMI 2023**  
+   *Semi-supervised unpaired medical image segmentation through task-affinity consistency*  
+   **Authors**: Jingkun Chen, Jianguo Zhang, K Debattista, Jungong Han  
+   [\[Paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9915650)
 
 ---
 
 ## Selected Publications
 
-1. **Contrast-Free Myocardial Scar Segmentation in Cine MRI using Motion and Texture Fusion**  
-   *Guang Yang, Jingkun Chen, Xicheng Sheng, Shan Yang, Xiahai Zhuang, Betty Raman, Lei Li, Vicente Grau*  
-   ISBI  
-   1 2025
+6. **ISBI 2025** [Contrast-Free Myocardial Scar Segmentation in Cine MRI using Motion and Texture Fusion](https://arxiv.org/pdf/2501.05241)  
+  Guang Yang, **Jingkun Chen**, Xicheng Sheng, Shan Yang, Xiahai Zhuang, Betty Raman, Lei Li, Vicente Grau
 
-2. **Unsupervised Patch-GAN with Targeted Patch Ranking for Fine-Grained Novelty Detection in Medical Imaging**  
-   *Jingkun Chen, Guang Yang, Xiao Zhang, Jingchao Peng, T Zhang, Jianguo Zhang, Jungong Han, Vicente Grau*  
-   AAAI-AIMedHealth Workshop  
-   2025
+1. **IEEE TIP 2025** [Addressing inconsistent labeling with cross image matching for scribble-based medical image segmentation](https://ieeexplore.ieee.org/document/10851813)  
+   **Jingkun Chen**, Wenjian Huang, Jianguo Zhang, K Debattista, Jungong Han
 
-3. **Semi-supervised unpaired medical image segmentation through task-affinity consistency**  
-   *Jingkun Chen, Jianguo Zhang, K Debattista, Jungong Han*  
-   IEEE Transactions on Medical Imaging 42(3), 594–605  
-   48 2023
+2. **AAAI-AIMedHealth Workshop 2025** [Unsupervised Patch-GAN with Targeted Patch Ranking for Fine-Grained Novelty Detection in Medical Imaging](https://arxiv.org/abs/2501.17906)  
+   **Jingkun Chen**, Guang Yang, Xiao Zhang, Jingchao Peng, T Zhang, Jianguo Zhang, Jungong Han, Vicente Grau
 
-4. **Dynamic contrastive learning guided by class confidence and confusion degree for medical image segmentation**  
-   *Jingkun Chen, C Chen, W Huang, Jianguo Zhang, K Debattista, Jungong Han*  
-   Pattern Recognition, 109881  
-   20 2024
+3. **Pattern Recognition 2024** [Dynamic contrastive learning guided by class confidence and confusion degree for medical image segmentation](https://www.sciencedirect.com/science/article/pii/S0031320323005794)  
+   **Jingkun Chen**, Changrui Chen, wenjian Huang, Jianguo Zhang, K Debattista, Jungong Han
 
-5. **Adversarial convolutional networks with weak domain-transfer for multi-sequence cardiac MR images segmentation**  
-   *Jingkun Chen, Hongwei Li, Jianguo Zhang, Bjoern Menze*  
-   MICCAI-STACOM, 317–325  
-   19 2020
+4. **IEEE TMI 2023** [Semi-supervised unpaired medical image segmentation through task-affinity consistency](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9915650)  
+   **Jingkun Chen**, Jianguo Zhang, K Debattista, Jungong Han
 
-6. **Deep class-specific affinity-guided convolutional network for multimodal unpaired image segmentation**  
-   *Jingkun Chen, Wenqi Li, Hongwei Li, Jianguo Zhang*  
-   MICCAI 2020, 187–196  
-   12 2020
+5. **MICCAI-STACOM 2020** [Adversarial convolutional networks with weak domain-transfer for multi-sequence cardiac MR images segmentation](https://link.springer.com/chapter/10.1007/978-3-030-39074-7_34)  
+   **Jingkun Chen**, Hongwei Li, Jianguo Zhang, Bjoern Menze
+
+6. **MICCAI 2020** [Deep class-specific affinity-guided convolutional network for multimodal unpaired image segmentation](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_19)  
+   **Jingkun Chen**, Wenqi Li, Hongwei Li, Jianguo Zhang
+
