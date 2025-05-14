@@ -32,8 +32,8 @@ Dr. Jingkun Chen is a postdoctoral researcher (2024–present) in the Department
 
 ## Academic Appointments
 
-- **Young Editorial Board Member**, *Interdisciplinary Sciences: Computational Life Sciences*  
-- **Guest Editor (Lead)**, Special Issue “Transparent Large Vision Language Models in Healthcare”, *IEEE Journal of Biomedical and Health Informatics* 
+- **Young Editorial Board Member**, *Interdisciplinary Sciences: Computational Life Sciences*  (CAS Q2, Impact Factor 3.9)
+- **Guest Editor (Lead)**, Special Issue “Transparent Large Vision Language Models in Healthcare”, *IEEE Journal of Biomedical and Health Informatics* (CAS Q2, Impact Factor 6.7)
 
 
 ## Selected Publications
