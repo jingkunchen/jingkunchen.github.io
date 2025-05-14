@@ -45,7 +45,7 @@ Dr. Jingkun Chen is a postdoctoral researcher (2024–present) in the Department
    **Jingkun Chen**, Wenjian Huang, Jianguo Zhang, Kurt Debattista, Jungong Han
 
 3. **AAAI-AIMedHealth Workshop 2025** [Unsupervised Patch-GAN with Targeted Patch Ranking for Fine-Grained Novelty Detection in Medical Imaging](https://arxiv.org/abs/2501.17906)  
-   **Jingkun Chen**, Guang Yang, Xiao Zhang, Jingchao Peng, T Zhang, Jianguo Zhang, Jungong Han, Vicente Grau
+   **Jingkun Chen**, Guang Yang, Xiao Zhang, Jingchao Peng, Tianlu Zhang, Jianguo Zhang, Jungong Han, Vicente Grau
 
 4. **Pattern Recognition 2024** [Dynamic contrastive learning guided by class confidence and confusion degree for medical image segmentation](https://www.sciencedirect.com/science/article/pii/S0031320323005794)  
    **Jingkun Chen**, Changrui Chen, wenjian Huang, Jianguo Zhang, Kurt Debattista, Jungong Han
