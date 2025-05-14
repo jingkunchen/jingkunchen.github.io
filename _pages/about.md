@@ -16,17 +16,17 @@ Dr. Jingkun Chen is a postdoctoral researcher in the Department of Engineering S
 1. **IEEE TIP 2025**  
    *Addressing inconsistent labeling with cross image matching for scribble-based medical image segmentation*  
    **Authors**: Jingkun Chen, Wenjian Huang, Jianguo Zhang, K Debattista, Jungong Han  
-   [\[Paper\]](https://ieeexplore.ieee.org/document/10851813)
+   <!-- [\[Paper\]](https://ieeexplore.ieee.org/document/10851813) -->
 
 2. **Pattern Recognition 2024**  
    *Dynamic contrastive learning guided by class confidence and confusion degree for medical image segmentation*  
    **Authors**: Jingkun Chen, Changrui Chen, wenjian Huang, Jianguo Zhang, K Debattista, Jungong Han  
-   [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S0031320323005794)
+   <!-- [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S0031320323005794) -->
 
 3. **IEEE TMI 2023**  
    *Semi-supervised unpaired medical image segmentation through task-affinity consistency*  
    **Authors**: Jingkun Chen, Jianguo Zhang, K Debattista, Jungong Han  
-   [\[Paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9915650)
+   <!-- [\[Paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9915650) -->
 
 ---
 
