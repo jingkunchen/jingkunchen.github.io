@@ -13,7 +13,7 @@ Dr. Jingkun Chen is a postdoctoral researcher (2024–present) in the Department
 
 ## Featured Publications
 
-1. **IEEE TIP 2025**  
+1. **IEEE Transactions on Image Processing 2025**  
    *Addressing inconsistent labeling with cross image matching for scribble-based medical image segmentation*  
    **Authors**: Jingkun Chen, Wenjian Huang, Jianguo Zhang, K Debattista, Jungong Han  
    <!-- [\[Paper\]](https://ieeexplore.ieee.org/document/10851813) -->
@@ -23,7 +23,7 @@ Dr. Jingkun Chen is a postdoctoral researcher (2024–present) in the Department
    **Authors**: Jingkun Chen, Changrui Chen, wenjian Huang, Jianguo Zhang, K Debattista, Jungong Han  
    <!-- [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S0031320323005794) -->
 
-3. **IEEE TMI 2023**  
+3. **IEEE Transactions on Medical Imaging 2023**  
    *Semi-supervised unpaired medical image segmentation through task-affinity consistency*  
    **Authors**: Jingkun Chen, Jianguo Zhang, K Debattista, Jungong Han  
    <!-- [\[Paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9915650) -->
